@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+data/US_Accidents_March23.csv
+# Ignore all CSV files in data (large datasets)
+data/*.csv
+
+# Allow sample file later
+!data/us_accidents_sample.csv
