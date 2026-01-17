@@ -53,4 +53,11 @@ GitHub
 
 Tableau Dashboard
 
+Dataset Files (Google Drive)
+The dataset files are too large to upload directly to GitHub 
+They can be accessed here:
+
+- Reduced Dataset (CSV): https://drive.google.com/file/d/1hRNnxIBM7sDTjTIxd0XAkruTKAuIrz7S/view?usp=drive_link
+- Full Dataset: https://drive.google.com/file/d/1rpjsa38D217nnixGyUqFeTvBBtHyc7dY/view?usp=drive_link
+  
 Interactive dashboard link:https://public.tableau.com/app/profile/isabelle.ermilus/viz/US_Traffic_Accidents_Dashboard_2016_2023/U_S_TrafficAccidents20162023?publish=yes
