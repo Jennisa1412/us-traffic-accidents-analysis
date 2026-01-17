@@ -54,7 +54,7 @@ GitHub
 Tableau Dashboard
 
 Dataset Files (Google Drive)
-The dataset files are too large to upload directly to GitHub 
+The dataset files are too large to upload directly to GitHub (GitHub file limit: 100MB).
 They can be accessed here:
 
 - Reduced Dataset (CSV): https://drive.google.com/file/d/1hRNnxIBM7sDTjTIxd0XAkruTKAuIrz7S/view?usp=drive_link
